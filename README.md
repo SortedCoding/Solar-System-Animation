@@ -1,1 +1,3 @@
-# Solar-System-Animation
+# preview
+
+![screenshot](solar.png)
